@@ -6,6 +6,8 @@ Note: The userpass auth method is intended for demo purposes and it does not enf
 
 Usage:
 
+```
   $ ./auto-passwd.sh jacob
   Success! Data written to: auth/userpass/users/jacob
   Your new password is: aPo.k*ai;zaediuceil0cahheegheh#u
+```
